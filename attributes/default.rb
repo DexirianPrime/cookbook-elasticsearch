@@ -132,4 +132,4 @@ default['elasticsearch']['checksums']['7.0.1']['tarball'] = '33866cbc61383d1ead0
 
 default['elasticsearch']['checksums']['7.1.0']['debian'] = '9cdb867ebfda5550590e2dc98e37020d9aa6bfd508b1b8be9f11f5683c807349'
 default['elasticsearch']['checksums']['7.1.0']['rhel'] = '3facf261e9cbb88c8d792d2ff97e2aeb79c44d2df5fd83591ce4f2d5378eb7a4'
-default['elasticsearch']['checksums']['7.1.0']['tarball'] = 'cb5556c6b75ef2e2d3b0399625aaabae0bbd84229ffc08e8475fdbec1e1b66c0'
+default['elasticsearch']['checksums']['7.1.0']['tarball'] = '91b4bd3722086e83dbe5ee7abf179de19b0cf9dc8a639438bde2721f184cc42e'
